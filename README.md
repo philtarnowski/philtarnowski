@@ -18,7 +18,7 @@ I create products that drive revenue. Led a product org while we scaled a produc
 
 ## Background
 
-- 🏢 Ex SVP of Product @ [Elate](https://www.goelate.com) — AI-native B2B SaaS strategy execution platform
+- 🏢 Founding PM → SVP of Product @ [Elate](https://www.goelate.com) — AI-native B2B SaaS strategy execution platform
 - 🤖 4 AI modules shipped to production using Gemini LLMs
 - 📈 200%+ ARR growth in consecutive years
 - 🏆 Tech 25 Award Winner · Supra Member · Orr Fellowship Alumni
