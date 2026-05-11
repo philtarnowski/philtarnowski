@@ -17,7 +17,7 @@ I create products that drive revenue. Led a product org while we scaled a produc
 ---
 
 ## Background
-- 🏅 Founder @ [Endurance Grid](https://www.endurancegrid.com) — built the endurance sports discovery platform that didn't exist for Midwest endurance athletes
+- 🏅 Founder @ [Endurance Grid](https://www.endurancegrid.com) — built the endurance sports discovery platform that didn't exist for endurance athletes
 - 🏢 Founding PM → SVP of Product @ [Elate](https://www.goelate.com) — AI-native B2B SaaS strategy execution platform
 - 🤖 4 AI modules shipped to production using Gemini LLMs
 - 📈 200%+ ARR growth in consecutive years
