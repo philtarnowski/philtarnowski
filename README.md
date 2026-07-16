@@ -1,34 +1,49 @@
 # Phil Tarnowski
 
-**Product Leader · 10+ Years B2B SaaS & AI · Built Product from Founding PM to Series A**
+**Founder, Endurance Grid · Building the on-ramp for endurance sports**
 
-I create products that drive revenue. Led a product org while we scaled a product from $20K ARR and fewer than 10 customers to Series A, 100+ customers, and multi-million ARR.
-
----
-
-## What I've Shipped
-
-- **Strategy Advisor** — Main AI product built on Gemini LLMs that validated AI as a standalone monetizable layer and drove two of the company's highest upsell quarters.
-- **Plan Analyzer** — AI feature using structured input parsing and LLM evaluation that reduced customer migration time and accelerated upsell velocity.
-- **Risk Navigator** — AI early warning system scanning across teams and timelines that increased account-level stickiness and retention.
-- **Integrations Library** — 60+ integrations powered via Merge.dev that reduced integration related bugs and customer support hours.
-- **Reporting Module** — AI reporting tool that increased NRR and 3 month admin retention.
+I'm building [Endurance Grid](https://www.endurancegrid.com), a multi-sport platform for endurance athletes. 16 sports, all 50 states, 15,000+ races, plus sport guides, gear picks, pace calculators, and race travel planning. Find a sport that fits your goals, find your race, then prepare with confidence.
 
 ---
 
-## Background
-- 🏅 Founder @ [Endurance Grid](https://www.endurancegrid.com) — built the endurance sports discovery platform that didn't exist for endurance athletes
-- 🏢 Founding PM → SVP of Product @ [Elate](https://www.goelate.com) — AI-native B2B SaaS strategy execution platform
-- 🤖 4 AI modules shipped to production using Gemini LLMs
-- 📈 200%+ ARR growth in consecutive years
-- 🏆 Tech 25 Award Winner · Supra Member · Orr Fellowship Alumni
-- 🎓 M.S. Human-Computer Interaction, IU Indianapolis · B.S. Marketing, IU Kelley School of Business
+## Why
+
+Endurance events are scattered across race sites, Facebook groups, and governing body calendars. Plenty of places to register. Nowhere built for the athlete who wants to understand what the options are and how to get started.
+
+I found half marathons, then sprint triathlons, then HYROX, all by accident, because nobody handed me a guide. Endurance Grid is the guide that didn't exist.
+
+---
+
+## What I'm Building
+
+- **[Race calendar](https://www.endurancegrid.com/races)** · 15,000+ events across 16 sports and 50 states, refreshed daily
+- **[Sport guides](https://www.endurancegrid.com/sports)** · content around what each sport actually asks of you
+- **[Pace calculators](https://www.endurancegrid.com/tools/pace-calculator)** · goal time in, required pace out, in the units each sport actually races
+- **[Gear guides](https://www.endurancegrid.com/tools/gear)** · narrowed down by sport so research doesn't take longer than the race
+- **[Racecation planner](https://www.endurancegrid.com/tools/plan-your-trip)** · lodging, rentals, experiences, and airports mapped against the start line
+
+---
+
+## Previously
+
+12+ years across product, design, marketing, and SEO.
+
+- **Founding PM → SVP of Product @ [Elate](https://www.goelate.com/)** · AI-native B2B SaaS strategy execution platform. Led the product org while we scaled from $20K ARR and under 10 customers to Series A, 100+ customers, and multi-million ARR.
+- **4 AI modules shipped to production on Gemini LLMs** · a standalone monetizable AI layer that drove two of the company's highest upsell quarters, an early warning system that lifted account retention, and an AI reporting tool that moved NRR
+- **60+ integrations** via Merge.dev that reduced integration related bugs and customer support hours
+- Tech 25 Award Winner · Supra Member · Orr Fellowship Alumni
+- M.S. Human-Computer Interaction, IU Indianapolis · B.S. Marketing, IU Kelley
+
+---
+
+## Also
+
+[National Academy of Sports Medicine - NASM](https://www.nasm.org/) certified personal trainer. Five half marathons, two sprint triathlons, three HYROX doubles races, a road cycling race, and a DEKA Fit.
 
 ---
 
 ## Currently
 
-Targeting senior IC PM at a company that's serious about building something that matters.
+Building Endurance Grid full-time.
 
-🌐 [philtarnowski.com](https://philtarnowski.com)
-💼 [linkedin.com/in/philtarnowski](https://linkedin.com/in/philtarnowski)
+🌐 [endurancegrid.com](https://www.endurancegrid.com) · [philtarnowski.com](https://philtarnowski.com) · [linkedin.com/in/philtarnowski](https://linkedin.com/in/philtarnowski)
