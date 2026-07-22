@@ -38,7 +38,7 @@ I found half marathons, then sprint triathlons, then HYROX, all by accident, bec
 
 ## Also
 
-[National Academy of Sports Medicine - NASM](https://www.nasm.org/) certified personal trainer. Five half marathons, two sprint triathlons, three HYROX doubles races, a road cycling race, and a DEKA Fit.
+[National Academy of Sports Medicine - NASM](https://www.nasm.org/) certified personal trainer. Five half marathons, two sprint triathlons, one sprint duathlon, three HYROX doubles races, a road cycling race, and a DEKA Fit.
 
 ---
 
@@ -46,4 +46,4 @@ I found half marathons, then sprint triathlons, then HYROX, all by accident, bec
 
 Building Endurance Grid full-time.
 
-🌐 [endurancegrid.com](https://www.endurancegrid.com) · [philtarnowski.com](https://philtarnowski.com) · [linkedin.com/in/philtarnowski](https://linkedin.com/in/philtarnowski)
+🌐 [endurancegrid.com](https://www.endurancegrid.com) · [linkedin.com/in/philtarnowski](https://linkedin.com/in/philtarnowski)
